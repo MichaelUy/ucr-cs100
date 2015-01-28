@@ -1,1 +1,9 @@
-/ 100
+73 / 100
+
++10 extra
+
+no examples of:
+-2: run a command in another directory, e.g. /bin
+-5: lots of spaces between params
+-15: exit with params passed to it, exit as a param to something else, exit in a chain of commands
+-5: comment where '#' touches something else
