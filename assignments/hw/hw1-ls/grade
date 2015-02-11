@@ -1,5 +1,6 @@
-105 / 100
+ 105  / 100  
 
--5: No test of ls -al
+    -5: No test of ls -al
 -5: No test of ls -aR
 +15: Coloring
+
